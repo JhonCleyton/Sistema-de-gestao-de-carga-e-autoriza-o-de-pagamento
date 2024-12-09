@@ -134,7 +134,9 @@ start_app.bat
 
 ## 📫 Suporte
 
-Para suporte técnico ou dúvidas sobre o sistema, entre em contato com a equipe de TI.
+Para suporte técnico ou dúvidas sobre o sistema, entre em contato comigo através do WhatsApp ou E-mail.
+(73) 98172-3483
+jhon.freire@ftc.edu.br
 
 ## 📝 Notas de Versão
 
@@ -146,4 +148,4 @@ Para suporte técnico ou dúvidas sobre o sistema, entre em contato com a equipe
 
 ---
 
-Desenvolvido com ❤️ para otimizar o gerenciamento de transporte de aves
+Desenvolvido com empenho por Jhon Cleyton Souza Freire!
